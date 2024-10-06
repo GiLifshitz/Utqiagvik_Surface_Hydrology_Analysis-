@@ -125,3 +125,5 @@ These findings highlight the complex and evolving nature of climate impacts in A
 3.	Alaska Climate Research Center website
 4.	National Centers of Environmental Information, NOAA
 Disclaimer – This work was generated with the help of AI tools to support the analysis, writing, and organization of content.
+
+All figures in this report are generated from the code provided in this repository.
