@@ -5,7 +5,7 @@ In this final project for the Surface Hydrology course, I aim to investigate how
 
 Global warming, a well-known phenomenon, impacts various aspects of the Earth's environment, including melting icebergs, the death of algae, changes in precipitation patterns, and more. In Israel, we also feel the effects of rising temperatures, such as shifts in seasonality, fewer rainy days, and an increase in extreme weather events, leading to larger and more destructive floods that damage fields and infrastructure.
 Based on the findings from "Temperature and Precipitation of Alaska 50 Year Trend Analysis" and "Coastal-Inland Distributions of Summer Air Temperature and Precipitation in Northern Alaska", both of which emphasize the rise in temperature and precipitation across Alaska, it is evident that the region has experienced significant warming and increased precipitation over the past 50 years. This is because warmer air holds more water vapor, leading to more intense and frequent precipitation events.
-Therefore, my hypothesis is that with rising temperatures in Utqiagvik, there will be an overall increase in precipitation, with more rain and less snow. Additionally, I anticipate a higher frequency of extreme weather events, such as heavy rainfall occurring over shorter periods.
+Therefore, my hypothesis is that with rising temperatures in Utqiagvik, there will be an overall increase in precipitation, with more rain and less snow. Additionally, I anticipate a higher frequency of extreme weather events, such as heavy rainfall occurring over shorter periods leading to larger and more destructive floods.
 This project will explore the relationship between rising temperatures and changes in precipitation patterns in Utqiagvik, Alaska, using data from NOAA4, National Centers of Environmental Information.
 
 ![image](https://github.com/user-attachments/assets/d86c0d9f-94b5-4cae-80af-ca06f874c5b0)
@@ -36,7 +36,7 @@ exceptional, as they fall within one standard deviation from the mean.
 
 Figure 4 – Monthly precipitation in Utqiagvik from 1925 - 2023, with an overlaid trend line and a 10-year moving average.
 
-From Figure 4, we observe a clear increasing trend in precipitation, as indicated by the trend line, showing that rainfall in Utqiagvik has risen over the years. In August 1926, Utqiagvik experienced over 200 mm of precipitation, with more than 50 mm falling in a single day. The initial value of the trend line is 8.41 mm, and the final value is 12.35 mm, representing a 3.94 mm increase, which corresponds to a 46.81% rise. Excluding August 1926, the increase is even more pronounced at 62.29% over the years. This observation underscores the significant upward trend in precipitation, with or without the extreme event in 1926.
+From Figure 4, we observe a clear increasing trend in precipitation, as indicated by the trend line, showing that precipitation in Utqiagvik has risen over the years. In August 1926, Utqiagvik experienced over 200 mm of precipitation, with more than 50 mm falling in a single day. The initial value of the trend line is 8.41 mm, and the final value is 12.35 mm, representing a 3.94 mm increase, which corresponds to a 46.81% rise. Excluding August 1926, the increase is even more pronounced at 62.29% over the years. This observation underscores the significant upward trend in precipitation, with or without the extreme event in 1926.
 
 
 ![image](https://github.com/user-attachments/assets/481609c8-7d1e-4442-9e42-fef08d33b3fb)
