@@ -122,7 +122,7 @@ The return period analysis showed that while the frequency of extreme precipitat
 The PET analysis shows that PET peaks during the summer months, primarily driven by higher temperatures and increased solar radiation. The inverse relationship between temperature and relative humidity, along with a higher vapor pressure deficit in summer, further supports these findings. While wind speed is variable, it does not significantly impact PET. Overall, the seasonal patterns observed in PET underscore the importance of temperature and solar radiation as key factors in Utqiagvik’s climate system, which is crucial for understanding local hydrological and environmental processes.
 These findings highlight the complex and evolving nature of climate impacts in Arctic regions. The trends observed in Utqiagvik serve as a microcosm for broader changes occurring globally, emphasizing the need for continued monitoring and adaptation strategies to mitigate the effects of climate change on local ecosystems and communities.
 
-![Weather Brad Pitt GIF](https://media.giphy.com/media/2vqaiPr1TrevmxCPUV/giphy.gif)
+<img src="https://media.giphy.com/media/jsm7XMcyeTFJE4vHzO/giphy.gif" alt="Brad Pitt Weather GIF" width="300">
 
 ### Sources
 1.	J. M. Stafford, G. Wendler, and J. Curtis, 2000, "Temperature and Precipitation of Alaska 50 Year Trend Analysis", Theor. Appl. Climatol. 67, 33-44 (2000).
