@@ -1,7 +1,7 @@
 # Utqiagvik Surface Hydrology Analysis Report
 ## Do rising temperatures in Utqiagvik, Alaska lead to an increase in precipitation, with a higher frequency of extreme weather events?
 
-<img src="https://media.giphy.com/media/2vqaiPr1TrevmxCPUV/giphy.gif" alt="Weather Brad Pitt GIF" width="300">
+<img src="https://media.giphy.com/media/1NQLWFlowexLZddxhk/giphy.gif" alt="Weather Channel GIF" width="300">
 
 ### Introduction
 
