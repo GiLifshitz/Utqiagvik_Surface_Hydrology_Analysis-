@@ -1,4 +1,5 @@
 # Utqiagvik Surface Hydrology Analysis Report
+## Do rising temperatures in Utqiagvik, Alaska lead to an increase in precipitation, with a higher frequency of extreme weather events?
 ## Introduction
 
 In this final project for the Surface Hydrology course, I aim to investigate how rising temperatures in Utqiagvik, formerly known as Barrow, Alaska, affect the amount of precipitation and the frequency of extreme weather events. Utqiagvik is known for its extreme weather due to its location above the Arctic Circle, with dark and frigid winters, brief and cold springs, cool and foggy summers, and rapidly cooling falls. The city experiences extreme seasonal changes in daylight: continuous daylight during the polar day from late May to early August, with around 83 days of sunlight, and polar night from late November to mid-January, resulting in approximately 67 days of darkness. These harsh conditions are characterized by extreme cold, low precipitation, and significant seasonal changes in daylight.
